@@ -1,0 +1,1 @@
+{"description":"WebSocket relay service","name":"web-relay","private":true,"scripts":{"start":"bash start.sh"},"version":"1.0.0"}
